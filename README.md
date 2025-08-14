@@ -36,7 +36,7 @@ The easiest way to reproduce our results is by using Google Colab. No local setu
 **Note:** The full fine-tuning process is computationally intensive and takes approximately **23 hours** on a standard Colab GPU. We recommend reviewing the notebook's logic and outputs before committing to a full run.
 
 ## License
-This project is licensed under the Apache 2.0 License. See the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License. 
 
 ## Citation
 If you find this work useful, please cite our paper:
